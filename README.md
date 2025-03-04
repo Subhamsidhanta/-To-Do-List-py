@@ -1,15 +1,15 @@
-# To-Do List CLI Application
+# To-Do List CLI Application ✨📝✅
 
-A simple **To-Do List** application built with Python. This app allows users to **add, delete, and view tasks** from a text file, ensuring task persistence even after closing the program.
+A simple **To-Do List** application built with Python. This app allows users to **add, delete, and view tasks** from a text file, ensuring task persistence even after closing the program. 📂🖥️📜
 
-## Features
+## Features 🎯📌⚡
 ✅ Add tasks with automatic numbering  
 ✅ Delete tasks by specifying the task number  
 ✅ View all tasks in a formatted list  
 ✅ Clears tasks daily for fresh planning  
 ✅ Stores tasks in `todo.txt` for persistence  
 
-## Installation
+## Installation 🛠️📥💻
 1. Clone the repository:
    ```sh
    git clone https://github.com/Subhamsidhanta/todo-list-cli.git
@@ -20,7 +20,7 @@ A simple **To-Do List** application built with Python. This app allows users to 
    python main.py
    ```
 
-## Usage
+## Usage 📝🎮🚀
 ### 1️⃣ Add a Task
 ```
 Enter the task: Buy groceries
@@ -41,9 +41,9 @@ Task deleted successfully!
 ```
 
 ### 4️⃣ Exit
-Simply choose option `4` to exit the program.
+Simply choose option `4` to exit the program. ❌🚪👋
 
-## File Structure
+## File Structure 📂📜🗂️
 ```
 📁 todo-list-cli/
    ├── main.py        # Main Python script
@@ -52,12 +52,12 @@ Simply choose option `4` to exit the program.
    ├── README.md      # Project documentation
 ```
 
-## Contributing
-Contributions are welcome! Feel free to fork this repository and submit a pull request.
+## Contributing 🤝🌎💡
+Contributions are welcome! Feel free to fork this repository and submit a pull request. 
 
-## License
+## License 📜⚖️🔓
 This project is licensed under the MIT License.
 
 ---
-**Happy Coding! 🚀**
+**Happy Coding! 🚀🎉💻**
 
